@@ -126,6 +126,16 @@
         figure
           img.img-a.img-t(src="@/assets/curso/temas/46.png", data-aos="zoom-in")    
 
+    #t_3_3.titulo-segundo(data-aos="flip-up")
+      h2 #[span 3.3] Monitoreo y reporte de KPIs
+    p(data-aos="fade-down") Para conocer sobre esta temática, lo invitamos a ver el siguiente video. 
+
+    .bg-full-width.bg-fondo-slider.mb-5(data-aos="fade-right")
+      .p-4.p-md-5
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/Tr2AdymFAuQ?si=cd4WG7y0FunMHNPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)     
+
     #t_3_4.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.4] Acción correctiva cuando los KPIs no se cumplen
 
