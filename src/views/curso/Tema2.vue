@@ -106,7 +106,7 @@
         p(data-aos="fade-down") Los diagramas de Gantt son una herramienta valiosa para realizar un seguimiento del progreso del proyecto. A medida que el proyecto avanza, los gerentes de proyectos pueden actualizar el diagrama de Gantt para reflejar el progreso real de cada tarea. Esto implica marcar las tareas como completadas, ajustar las fechas de inicio y finalización, según sea necesario y resaltar cualquier desviación del plan original.
 
         .bg-color-4.p-4.j1(data-aos="fade-left")
-          p.mb-0 Cuando se producen retrasos o cambios en el proyecto, los diagramas de Gantt permiten, a los gerentes de proyectos, ajustar las fechas de inicio y finalización de las tareas afectadas observando cómo estos cambios impactan en el cronograma general del proyecto. Esto les deja tomar decisiones informadas sobre la reasignación de recursos, la modificación de las dependencias o la comunicación de los cambios a los interesados. 
+          p.mb-0 El seguimiento regular del progreso permite a los gerentes de proyectos identificar posibles problemas o retrasos temprano y tomar medidas correctivas. También proporciona una visibilidad clara del estado actual del proyecto, lo que facilita la comunicación con los interesados y la toma de decisiones informadas. 
 
 
     .row.mb-5

@@ -198,28 +198,8 @@ export default {
     },
     {
       referencia:
-        'López, D., Rodríguez, J. R. & González, J. J. (2019). <i>Gestión de programas de proyectos informáticos (y no informáticos)</i>. Editorial UOC. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/113334?page=1',
-    },
-    {
-      referencia:
-        'Boero, C. (2020). <i>Evaluación de proyectos</i>. Jorge Sarmiento Editor - Universitas. ',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/172500',
-    },
-    {
-      referencia:
-        'Gómez Ruedas, J. (2014). <i>Dirección y gestión de proyectos de tecnologías de la información en la empresa</i>. FC Editorial. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/114078?page=1',
-    },
-    {
-      referencia:
         'Maigua, G. (2017). <i>Buenas prácticas en la dirección y gestión de proyectos informáticos</i>. D - Editorial de la Universidad Tecnológica Nacional. ',
       link: 'https://elibro.net/es/ereader/tecnologicadeloriente/76993?page=1',
-    },
-    {
-      referencia:
-        'Sarmiento Rojas, J. A., Correa Candamil, C. H. & Jiménez Roa, D. E. (2020). <i>Gestión de proyectos aplicada al PMBOK 6ED</i>. Editorial UPTC. ',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/193943?page=1',
     },
   ],
   glosario: [
