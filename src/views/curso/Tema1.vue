@@ -112,7 +112,7 @@
           .col-lg-8
             h2.mb-4(data-aos="flip-up") Desarrollo del WBS 
             p.mb-4(data-aos="fade-right") En el PDF Desarrollo del WBS, se explica cómo descomponer un proyecto en componentes manejables, mediante una estructura jerárquica que facilita la planificación, asignación de tareas y seguimiento del progreso. A través de ejemplos prácticos, se ilustra cómo aplicar esta herramienta para lograr una visión integral del alcance del proyecto y fortalecer la coordinación del equipo.
-            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_2.pdf')" target="_blank")(data-aos="flip-up")
+            a.anexo.mb-4.bg-white.w-fit(:href="obtenerLink('/downloads/Anexo_1.pdf')" target="_blank")(data-aos="flip-up")
               .anexo__icono(:style="{'background-color': '#FCDFDB'}")
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
